@@ -1,0 +1,3 @@
+/Users/yangkaiming/learning/computer/CLionProjects/hardware/cmake-build-debug/CMakeFiles/hardware.dir
+/Users/yangkaiming/learning/computer/CLionProjects/hardware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangkaiming/learning/computer/CLionProjects/hardware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
