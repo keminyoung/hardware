@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ass/ass.h"
+#include "cpu/register.h"
 int main() {
     cpu_t cpu;
 
